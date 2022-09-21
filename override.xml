@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<root>
+	<!--GM_Icon is best at 32x32px-->
+		<icon name="portrait_gm_token" file="PNGs/GM_Icon.png" />
+
+
+	<!--Place any additional pngs definitions in a similar fashion below-->
+	
+</root>
