@@ -30,7 +30,7 @@
  3. Modify this line `<name>Theme: GM Icon Replacer</name>` to, for example `<name>Theme: GM Icon Replacer - YourName</name>`
     - This will make sure, that if more than one Replacer Extension is present, Fantasy Grounds can pick up on this and show them as diferent extensions. Otherwise only the last one loaded will shop up.
  
- If you want to incluse additional icon replacements, you can include them in the override.xml.
+ If you want to include additional icon replacements, you can add them to the override.xml.
  
 Enjoy!
 Sir Motte
