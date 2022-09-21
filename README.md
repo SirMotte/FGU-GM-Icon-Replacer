@@ -12,7 +12,7 @@
  If you're not using advanced file managers like [Total Commander](https://www.ghisler.com/) or [Directory Opus](https://www.gpsoft.com.au/index.html), that    handle opening up zipped files on the fly, you will need to follow these steps, otherwise only follow step 4,5,6 and 10,11:
 
 1. Rename the *GM_Icon_Replacer.**ext*** to *GM_Icon_Replacer.**zip***.
-2. Unpack the zip file with an unpacker of your choice like winrar or 7zip.
+2. Unpack the zip file with a zip handler of your choice like winrar or 7zip.
 3. Open up the unpacked folder. There you will find xml files and two folders.
 4. If you want to, navigate to the templates folder and use the provided graphics and .svgs to create your own GM Icon on top.
 5. Otherwise use whatever icon you like and rename it to *GM_Icon.png* and place it into the PNGs Folder.
