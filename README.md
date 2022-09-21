@@ -5,7 +5,7 @@
  Keep in mind, that the asset you choose is best used with a resolution not larger than 42x42px. I recommend using 32x32px if you're using my [Dark Theme](https://github.com/SirMotte/FGU-Theme-Hearth). 
  If you would like to use the golden frame that the standard icon uses in my Hearth Theme, I've included templates for you to make use of within your favourite image editing  software.
 
-## Installation & Cusomization
+## Installation & Customization
 
 - [Download](https://github.com/SirMotte/FGU-Theme-GM-Icon-Replacer/releases/tag/v1.0) the Extension from Github.
 
@@ -28,7 +28,7 @@
  1. Rename the GM_Icon_Replacer.ext file to something unique, for example GM_Icon_Replacer_YourName.ext.
  2. Within the .ext file, open up the extension.xml with a text editor of your choice.
  3. Modify this line `<name>Theme: GM Icon Replacer</name>` to, for example `<name>Theme: GM Icon Replacer - YourName</name>`
-    - This will make sure, that if more than one Replacer Extension is present, Fantasy Grounds can pick up on this and show them as diferent extensions. Otherwise only the last one loaded will shop up.
+    - This will make sure, that if more than one Replacer Extension is present, Fantasy Grounds can pick up on this and show them as different extensions. Otherwise only the last one loaded will shop up.
  
  If you want to include additional icon replacements, you can add them to the override.xml.
  
