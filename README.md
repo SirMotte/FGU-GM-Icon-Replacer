@@ -9,7 +9,7 @@
 
 - [Download](https://github.com/SirMotte/FGU-Theme-GM-Icon-Replacer/releases/tag/v1.0) the Extension from Github.
 
- If you're not using advanced file managers like [Total Commander](https://www.ghisler.com/) or [Directory Opus](https://www.gpsoft.com.au/index.html), that    handle opening up zipped files on the fly, you will need to follow these steps, follow step 4,5,6 and 10,11:
+ If you're not using advanced file managers like [Total Commander](https://www.ghisler.com/) or [Directory Opus](https://www.gpsoft.com.au/index.html), that    handle opening up zipped files on the fly, you will need to follow these steps, otherwise only follow step 4,5,6 and 10,11:
 
 1. Rename the *GM_Icon_Replacer.**ext*** to *GM_Icon_Replacer.**zip***.
 2. Unpack the zip file with an unpacer of your choice like winrar or 7zip.
