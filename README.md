@@ -28,7 +28,7 @@
  1. Rename the GM_Icon_Replacer.ext file to something uniqe, for example GM_Icon_Replacer_YourName.ext.
  2. Within the .ext file, open up the extension.xml with a text editor of your choice.
  3. Modify this line `<name>Theme: GM Icon Replacer</name>` to, for example `<name>Theme: GM Icon Replacer - YourName</name>`
-    - This will make sure, that if more than one Replacer Extension is present, Fantasy Grounds can pick up on this and show them as diferent extensions. Otherwise online the last one loaded will shop up.
+    - This will make sure, that if more than one Replacer Extension is present, Fantasy Grounds can pick up on this and show them as diferent extensions. Otherwise only the last one loaded will shop up.
  
  If you want to incluse additional icon replacements, you can include them in the override.xml.
  
