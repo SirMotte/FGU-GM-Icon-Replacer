@@ -15,7 +15,7 @@
 2. Unpack the zip file with a zip handler of your choice like winrar or 7zip.
 3. Open up the unpacked folder. There you will find xml files and two folders.
 4. If you want to, navigate to the templates folder and use the provided graphics and .svgs to create your own GM Icon on top.
-5. Otherwise use whatever icon you like and rename it to *GM_Icon.png* and place it into the PNGs Folder.
+5. Otherwise use whatever icon you like and rename it to *GM_Icon.png* and place it into the PNGs Folder. (Keep in mind the resolution mentioned above).
 6. When asked to overwrite, click yes.
 7. Repack the GM_Icon_Replacer Folder again to GM_Icon_Replacer.zip.
 8. Rename the *GM_Icon_Replacer.**zip*** file to *GM_Icon_Replacer**.ext** again.
