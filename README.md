@@ -24,7 +24,7 @@
 11. Done, I hope you like it!
 
 ## Advanced customization
- In case you want to make the extension file unique, to eg have several options to choose from when launching your campaign, follow these steps:
+ In case you want to make the extension file unique, to e.g. have several options to choose from when launching your campaign, follow these steps:
  1. Rename the GM_Icon_Replacer.ext file to something unique, for example GM_Icon_Replacer_YourName.ext.
  2. Within the .ext file, open up the extension.xml with a text editor of your choice.
  3. Modify this line `<name>Theme: GM Icon Replacer</name>` to, for example `<name>Theme: GM Icon Replacer - YourName</name>`
