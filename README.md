@@ -18,7 +18,7 @@
 5. Otherwise use whatever icon you like and rename it to *GM_Icon.png* and place it into the PNGs Folder. (Keep in mind the resolution mentioned above).
 6. When asked to overwrite, click yes.
 7. Repack the GM_Icon_Replacer Folder again to GM_Icon_Replacer.zip.
-8. Rename the *GM_Icon_Replacer.**zip*** file to *GM_Icon_Replacer**.ext** again.
+8. Rename the *GM_Icon_Replacer.**zip*** file to *GM_Icon_Replacer.**ext** again.
 9. Move the file named "GM_Icon_Replacer.ext" into the "Extensions" Folder found inside your Fantasy Grounds "Data" folder.
 10. Activate the Extension listed as "Theme: GM Icon Replacer" in your campaign details page in the "Extensions" section and launch the campaign.
 11. Done, I hope you like it!
