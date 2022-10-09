@@ -1,9 +1,11 @@
 # FGU-Theme-GM-Icon-Replacer
- This extension for Fantasy Grounds Unity (FGU) enables the user to exchange their GM Icon within Fantasy Grounds Unity with a custom graphic.
+A Fantasy Grounds Unity Extension.
 
- In order to do so, you must open up the extension file and replace the GM_Icon.png withing the PNGs folder with your custom asset.
- Keep in mind, that the asset you choose is best used with a resolution not larger than 42x42px. I recommend using 32x32px if you're using my [Dark Theme](https://github.com/SirMotte/FGU-Theme-Hearth). 
- If you would like to use the golden frame that the standard icon uses in my Hearth Theme, I've included templates for you to make use of within your favourite image editing  software.
+This extension enables the user to exchange their GM Icon with a custom image asset.
+
+In order to do so, you must open up the extension file and replace the GM_Icon.png withing the PNGs folder with your custom asset.
+Keep in mind, that the asset you choose is best used with a resolution not larger than 42x42px. I recommend using 32x32px if you're using my [Dark Theme](https://github.com/SirMotte/FGU-Theme-Hearth). 
+If you would like to use the golden frame that the standard icon uses in my Hearth Theme, I've included templates for you to make use of within your favourite image editing  software.
 
 ## Installation & Customization
 
