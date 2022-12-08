@@ -2,9 +2,10 @@
 
 <root>
 	<!--GM_Icon is best at 32x32px-->
-		<icon name="portrait_gm_token" file="PNGs/GM_Icon.png" />
+	<icon name="portrait_gm_token" file="PNGs/GM_Icon.png" />
 
+	<icon name="categorydelete" file="graphics/PNGs/icon_category_delete.png" />
 
 	<!--Place any additional pngs definitions in a similar fashion below-->
-	
+
 </root>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 
 <root version="3.2">
-	<announcement text="Theme Add-On: \rSir Motte's GM Icon Replacer\rVersion: 1.0" font="oocfont" icon="footface2"/>
+	<announcement text="Theme Add-On: \rSir Motte's GM Icon Replacer\rVersion: 1.0" font="oocfont" icon="footface2" />
 
 	<properties>
-		<name>Theme: GM Icon Replacer</name>
+		<name>Theme: GM Icon Replacer - Name</name>
 		<author>Sir Motte</author>
 		<version>1.0</version>
 		<description>Replaces Chat GM Icon with a custom asset</description>
 		<loadorder>1520</loadorder>
 	</properties>
-	
-	<base>	
+
+	<base>
 		<icon name="footface2" file="SirMotte_footface2.png" />
 		<includefile source="override.xml" />
 	</base>
